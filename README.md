@@ -19,6 +19,6 @@ A simple To-do List app using Node.js and MongoDB.
 - Edit Page to edit the record
 
 #### Routes:
-/add
-/delete
-/update
+- /add
+- /delete
+- /update
